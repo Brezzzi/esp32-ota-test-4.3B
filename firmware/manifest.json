@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "min_version": "1.0.0",
   "url": "https://brezzzi.github.io/esp32-ota-test/firmware/lvgl_pressure_display_fixed_fertig.ino.esp32s3.bin",
   "description": "Erster OTA-Test via GitHub Pages",
