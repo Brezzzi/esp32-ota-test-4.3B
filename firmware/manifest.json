@@ -1,7 +1,7 @@
 {
   "version": "1.1.6",
   "min_version": "1.0.0",
-  "url": "https://brezzzi.github.io/esp32-ota-test-4.3B/firmware/4.3_2Tabs_regelung_poly_va_ha_speicher_temp_int_tpms_halb_settl.ino.waveshare_esp32_s3_touch_lcd_43b.bin",
+  "url": "https://brezzzi.github.io/esp32-ota-test-4.3B/firmware/4.3_regelung_poly_va_ha_speicher_temp_int_tpms_halb_settl_OV.ino.waveshare_esp32_s3_touch_lcd_43b.bin",
   "description": "Erster OTA-Test via GitHub Pages",
   "sha256": ""
 }
